@@ -1,9 +1,11 @@
 <script setup>
+import ChatComponent from './components/ChatComponent.vue';
 </script>
 
 <template>
+  <h1>Chat</h1>
   <main>
-    
+    <ChatComponent/>
   </main>
 </template>
 
