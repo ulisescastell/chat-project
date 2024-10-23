@@ -10,6 +10,9 @@ import ChatComponent from './components/ChatComponent.vue';
 </template>
 
 <style scoped>
+h1 {
+    font-size: 50px;
+}
 header {
   line-height: 1.5;
 }
